@@ -6,6 +6,8 @@ This project aims to analyze restaurant reviews and predict whether they are pos
 - Multinomial Naive Bayes
 - Bernoulli Naive Bayes
 - Logistic Regression
+
+  
 The accuracy, precision, and recall metrics are calculated for each model and are then compared to determine the most effective one for this sentiment analysis task.
 
 Models Used
