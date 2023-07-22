@@ -10,12 +10,13 @@ This project aims to analyze restaurant reviews and predict whether they are pos
   
 The accuracy, precision, and recall metrics are calculated for each model and are then compared to determine the most effective one for this sentiment analysis task.
 
-<ins>Tkinter Front-End -</ins> 
+<ins>Tkinter Front-End </ins>-
+
 The project includes a front-end built using Tkinter, the standard GUI library for Python. This Tkinter interface allows users to interact with the models easily.
 
 The front-end interface will present a text input field where users can enter their review. By clicking on the submit button, users can see predictions for all models for the sentiment of the review (positive or negative). Using the radio buttons on the right side, you can also access the accuracy, precision, and recall metrics for each model.
 
-<ins>Models Used -</ins>
+<ins>Models Used </ins>-
 1. Support Vector Machine (SVM)- 
 It is a powerful supervised learning algorithm used for classification tasks.
 
@@ -28,7 +29,8 @@ It is another variant of the Naive Bayes algorithm that is suitable for binary f
 4. Logistic Regression- 
 It is a linear classifier that is widely used for binary classification problems.
 
-<ins>Results -</ins>
+<ins>Results </ins>-
+
 After training the models on the provided dataset, the following results were obtained:
 
 Using Support Vector Machine (SVM)
